@@ -4,3 +4,4 @@ uint32 focusMax
 uint32 zoomMax
 bool focusIsMoving
 bool zoomIsMoving
+bool isHoming

@@ -1,0 +1,2 @@
+uint32 focusGoTo
+uint32 zoomGoTo
