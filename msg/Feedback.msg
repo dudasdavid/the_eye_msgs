@@ -9,3 +9,4 @@ bool zoomIsMoving
 bool focusIsHome
 bool zoomIsHome
 bool isHoming
+string errorMessage
