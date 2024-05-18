@@ -2,6 +2,8 @@ uint32 focusValue
 uint32 zoomValue
 uint32 focusMax
 uint32 zoomMax
+uint32 focusZero
+uint32 zoomZero
 bool focusIsMoving
 bool zoomIsMoving
 bool focusIsHome
