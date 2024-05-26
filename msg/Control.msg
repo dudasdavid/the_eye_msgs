@@ -1,2 +1,0 @@
-int32 focusGoTo
-int32 zoomGoTo

@@ -53,7 +53,10 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   Feedback.msg
-  Control.msg
+  FocusAbsoluteMove.msg
+  FocusRelativeMove.msg
+  ZoomAbsoluteMove.msg
+  ZoomRelativeMove.msg
 )
 
 ## Generate services in the 'srv' folder
